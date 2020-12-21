@@ -1,0 +1,595 @@
+state,district
+karnataka,shimoga
+karnataka,tumkur
+karnataka,udupi
+andaman and nicobar,andaman islands
+karnataka,uttar kannand
+kerala,alappuzha
+andaman and nicobar,nicobar islands
+kerala,ernakulam
+andhra pradesh,adilabad
+kerala,idukki
+andhra pradesh,anantapur
+andhra pradesh,chittoor
+kerala,kannur
+andhra pradesh,cuddapah
+andhra pradesh,east godavari
+kerala,kasaragod
+andhra pradesh,guntur
+kerala,kollam
+andhra pradesh,hyderabad
+kerala,kottayam
+tamil nadu,sivaganga
+andhra pradesh,karimnagar
+kerala,kozhikode
+kerala,malappuram
+andhra pradesh,khammam
+tamil nadu,thanjavur
+kerala,palakkad
+tamil nadu,theni
+kerala,pattanamtitta
+andhra pradesh,krishna
+tamil nadu,thiruvallur
+andhra pradesh,kurnool
+kerala,thiruvananthapuram
+tamil nadu,thiruvarur
+kerala,thrissur
+andhra pradesh,mahbubnagar
+kerala,wayanad
+tamil nadu,thoothukudi
+andhra pradesh,medak
+lakshadweep,kavaratti
+andhra pradesh,nalgonda
+tamil nadu,tiruchchirappalli
+madhya pradesh,anuppur
+madhya pradesh,ashoknagar
+tamil nadu,tirunelveli kattabo
+madhya pradesh,balaghat
+tamil nadu,tiruvannamalai
+madhya pradesh,barwani
+andhra pradesh,nellore
+madhya pradesh,betul
+andhra pradesh,nizamabad
+madhya pradesh,bhind
+tamil nadu,vellore
+andhra pradesh,prakasam
+madhya pradesh,bhopal
+tamil nadu,villupuram
+madhya pradesh,burhanpur
+andhra pradesh,rangareddi
+tamil nadu,virudhunagar
+madhya pradesh,chhatarpur
+tripura,dhalai
+andhra pradesh,srikakulam
+madhya pradesh,chhindwara
+tripura,north tripura
+madhya pradesh,damoh
+madhya pradesh,datia
+tripura,south tripura
+andhra pradesh,vishakhapatnam
+madhya pradesh,dewas
+tripura,west tripura
+andhra pradesh,vizianagaram
+madhya pradesh,dhar
+andhra pradesh,warangal
+uttar pradesh,agra
+madhya pradesh,dindori
+andhra pradesh,west godavari
+uttar pradesh,aligarh
+madhya pradesh,east nimar
+arunachal pradesh,changlang
+daman and diu,junagadh
+uttar pradesh,allahabad
+madhya pradesh,guna
+uttar pradesh,ambedkar nagar
+delhi,delhi
+arunachal pradesh,east kameng
+madhya pradesh,gwalior
+uttar pradesh,auraiya
+goa,north goa
+madhya pradesh,harda
+arunachal pradesh,east siang
+uttar pradesh,azamgarh
+madhya pradesh,hoshangabad
+uttar pradesh,badaun
+madhya pradesh,indore
+arunachal pradesh,kurung kumey
+goa,south goa
+uttar pradesh,baghpat
+madhya pradesh,jabalpur
+uttar pradesh,bahraich
+arunachal pradesh,lohit
+gujarat,ahmadabad
+madhya pradesh,jhabua
+uttar pradesh,ballia
+uttar pradesh,balrampur
+madhya pradesh,katni
+arunachal pradesh,lower dibang valley
+gujarat,amreli
+uttar pradesh,banda
+madhya pradesh,mandla
+arunachal pradesh,lower subansiri
+madhya pradesh,mandsaur
+uttar pradesh,bara banki
+gujarat,anand
+arunachal pradesh,papum pare
+madhya pradesh,morena
+uttar pradesh,bareilly
+gujarat,banas kantha
+arunachal pradesh,tawang
+madhya pradesh,narsinghpur
+uttar pradesh,basti
+madhya pradesh,neemuch
+arunachal pradesh,tirap
+uttar pradesh,bijnor
+madhya pradesh,panna
+arunachal pradesh,upper dibang valley
+gujarat,bharuch
+uttar pradesh,bulandshahr
+madhya pradesh,raisen
+arunachal pradesh,upper siang
+gujarat,bhavnagar
+uttar pradesh,chandauli
+madhya pradesh,rajgarh
+arunachal pradesh,upper subansiri
+arunachal pradesh,west kameng
+madhya pradesh,ratlam
+uttar pradesh,chitrakoot
+gujarat,dahod
+uttar pradesh,deoria
+madhya pradesh,rewa
+arunachal pradesh,west siang
+gujarat,gandhinagar
+uttar pradesh,etah
+uttar pradesh,etawah
+madhya pradesh,sagar
+assam,barpeta
+mizoram,kolasib
+madhya pradesh,satna
+assam,bongaigaon
+uttar pradesh,faizabad
+mizoram,lawngtlai
+mizoram,lunglei
+madhya pradesh,sehore
+uttar pradesh,farrukhabad
+assam,cachar
+gujarat,jamnagar
+mizoram,mamit
+assam,darrang
+madhya pradesh,seoni
+uttar pradesh,fatehpur
+gujarat,junagadh
+assam,dhemaji
+madhya pradesh,shahdol
+mizoram,saiha
+assam,dhuburi
+mizoram,serchhip
+madhya pradesh,shajapur
+uttar pradesh,firozabad
+assam,dibrugarh
+uttar pradesh,gautam buddha nagar
+nagaland,dimapur
+madhya pradesh,sheopur
+uttar pradesh,ghaziabad
+assam,goalpara
+uttar pradesh,ghazipur
+nagaland,kohima
+madhya pradesh,shivpuri
+assam,golaghat
+uttar pradesh,gonda
+madhya pradesh,sidhi
+assam,hailakandi
+nagaland,mokokchung
+uttar pradesh,gorakhpur
+madhya pradesh,tikamgarh
+assam,jorhat
+madhya pradesh,ujjain
+madhya pradesh,umaria
+nagaland,mon
+uttar pradesh,hamirpur
+madhya pradesh,vidisha
+uttar pradesh,hardoi
+nagaland,phek
+assam,kamrup
+uttar pradesh,hathras
+madhya pradesh,west nimar
+uttar pradesh,jalaun
+assam,karbi anglong
+nagaland,tuensang
+maharashtra,ahmednagar
+uttar pradesh,jaunpur
+gujarat,kachchh
+assam,karimganj
+uttar pradesh,jhansi
+maharashtra,akola
+uttar pradesh,jyotiba phule nagar
+gujarat,kheda
+assam,kokrajhar
+nagaland,wokha
+maharashtra,amravati
+uttar pradesh,kannauj
+nagaland,zunheboto
+uttar pradesh,kanpur dehat
+maharashtra,aurangabad
+assam,lakhimpur
+gujarat,mahesana
+uttar pradesh,kanpur
+gujarat,narmada
+assam,marigaon
+orissa,angul
+maharashtra,bhandara
+uttar pradesh,kaushambi
+gujarat,navsari
+uttar pradesh,kushinagar
+orissa,baleshwar
+assam,nagaon
+maharashtra,bid
+orissa,baragarh
+gujarat,panch mahals
+uttar pradesh,lakhimpur kheri
+assam,nalbari
+maharashtra,buldana
+gujarat,patan
+uttar pradesh,lalitpur
+orissa,bhadrak
+maharashtra,chandrapur
+assam,north cachar hills
+uttar pradesh,lucknow
+gujarat,porbandar
+assam,sibsagar
+orissa,bolangir
+maharashtra,dhule
+uttar pradesh,maharajganj
+orissa,boudh
+gujarat,rajkot
+uttar pradesh,mahoba
+assam,sonitpur
+maharashtra,garhchiroli
+orissa,cuttack
+uttar pradesh,mainpuri
+maharashtra,gondiya
+assam,tinsukia
+gujarat,sabar kantha
+orissa,deogarh
+uttar pradesh,mathura
+bihar,araria
+orissa,dhenkanal
+gujarat,surat
+maharashtra,greater bombay
+bihar,aurangabad
+orissa,gajapati
+uttar pradesh,mau
+uttar pradesh,meerut
+bihar,banka
+maharashtra,hingoli
+orissa,ganjam
+gujarat,surendranagar
+uttar pradesh,mirzapur
+maharashtra,jalgaon
+bihar,begusarai
+orissa,jagatsinghpur
+maharashtra,jalna
+orissa,jajpur
+uttar pradesh,moradabad
+bihar,bhabua
+gujarat,the dangs
+maharashtra,kolhapur
+orissa,jharsuguda
+orissa,kalahandi
+uttar pradesh,muzaffarnagar
+bihar,bhagalpur
+maharashtra,latur
+gujarat,vadodara
+bihar,bhojpur
+uttar pradesh,pilibhit
+orissa,kandhamal
+maharashtra,nagpur
+gujarat,valsad
+bihar,buxar
+maharashtra,nanded
+orissa,kendrapara
+uttar pradesh,pratapgarh
+haryana,ambala
+bihar,darbhanga
+uttar pradesh,rae bareli
+haryana,bhiwani
+bihar,gaya
+orissa,keonjhar
+uttar pradesh,rampur
+maharashtra,nandurbar
+haryana,faridabad
+orissa,khordha
+uttar pradesh,saharanpur
+haryana,fatehabad
+maharashtra,nashik
+orissa,koraput
+bihar,gopalganj
+haryana,gurgaon
+maharashtra,osmanabad
+uttar pradesh,sant kabir nagar
+bihar,jamui
+maharashtra,parbhani
+orissa,malkangiri
+uttar pradesh,sant ravi das nagar
+bihar,jehanabad
+maharashtra,pune
+bihar,katihar
+uttar pradesh,shahjahanpur
+haryana,hisar
+uttar pradesh,shravasti
+bihar,khagaria
+orissa,mayurbhanj
+haryana,jhajjar
+maharashtra,raigarh
+bihar,kishanganj
+uttar pradesh,siddharth nagar
+bihar,lakhisarai
+uttar pradesh,sitapur
+haryana,jind
+bihar,madhepura
+maharashtra,ratnagiri
+uttar pradesh,sonbhadra
+orissa,nabarangpur
+bihar,madhubani
+orissa,nayagarh
+uttar pradesh,sultanpur
+haryana,kaithal
+bihar,munger
+maharashtra,sangli
+orissa,nuapada
+uttar pradesh,unnao
+bihar,muzaffarpur
+haryana,karnal
+maharashtra,satara
+orissa,puri
+uttar pradesh,varanasi
+haryana,kurukshetra
+bihar,nalanda
+uttaranchal,almora
+bihar,nawada
+orissa,rayagada
+uttaranchal,bageshwar
+maharashtra,sindhudurg
+haryana,mahendragarh
+bihar,pashchim champaran
+bihar,patna
+haryana,panchkula
+orissa,sambalpur
+uttaranchal,chamoli
+maharashtra,solapur
+bihar,purba champaran
+orissa,sonepur
+uttaranchal,champawat
+bihar,purnia
+bihar,rohtas
+uttaranchal,dehra dun
+haryana,panipat
+bihar,saharsa
+maharashtra,thane
+orissa,sundargarh
+uttaranchal,haridwar
+bihar,samastipur
+haryana,rewari
+bihar,saran
+maharashtra,wardha
+uttaranchal,naini tal
+haryana,rohtak
+bihar,sheikhpura
+maharashtra,washim
+bihar,sheohar
+puducherry,karaikal
+uttaranchal,pauri garhwal
+haryana,sirsa
+bihar,sitamarhi
+haryana,sonepat
+maharashtra,yavatmal
+uttaranchal,pithoragarh
+bihar,siwan
+haryana,yamuna nagar
+bihar,supaul
+puducherry,mahe
+manipur,bishnupur
+bihar,vaishali
+himachal pradesh,bilaspur
+uttaranchal,rudra prayag
+chandigarh,chandigarh
+puducherry,puducherry
+himachal pradesh,chamba
+chhattisgarh,bastar
+manipur,chandel
+uttaranchal,tehri garhwal
+himachal pradesh,hamirpur
+puducherry,yanam
+himachal pradesh,kangra
+chhattisgarh,bilaspur
+punjab,amritsar
+himachal pradesh,kinnaur
+chhattisgarh,dantewada
+punjab,bathinda
+uttaranchal,udham singh nagar
+manipur,churachandpur
+chhattisgarh,dhamtari
+punjab,faridkot
+uttaranchal,uttarkashi
+manipur,east imphal
+himachal pradesh,kullu
+chhattisgarh,durg
+manipur,senapati
+west bengal,bankura
+himachal pradesh,lahul and spiti
+punjab,fatehgarh sahib
+chhattisgarh,janjgir-champa
+manipur,tamenglong
+himachal pradesh,mandi
+west bengal,barddhaman
+manipur,thoubal
+west bengal,birbhum
+himachal pradesh,shimla
+chhattisgarh,jashpur
+punjab,firozpur
+himachal pradesh,sirmaur
+manipur,ukhrul
+west bengal,dakshin dinajpur
+chhattisgarh,kanker
+himachal pradesh,solan
+punjab,gurdaspur
+west bengal,darjiling
+manipur,west imphal
+chhattisgarh,kawardha
+himachal pradesh,una
+punjab,hoshiarpur
+meghalaya,east garo hills
+west bengal,east midnapore
+punjab,jalandhar
+jammu and kashmir,anantnag (kashmir south)
+chhattisgarh,korba
+punjab,kapurthala
+jammu and kashmir,bagdam
+chhattisgarh,koriya
+west bengal,haora
+punjab,ludhiana
+jammu and kashmir,baramula (kashmir north)
+west bengal,hugli
+chhattisgarh,mahasamund
+punjab,mansa
+jammu and kashmir,doda
+west bengal,jalpaiguri
+punjab,moga
+chhattisgarh,raigarh
+jammu and kashmir,jammu
+meghalaya,east khasi hills
+chhattisgarh,raipur
+west bengal,kochbihar
+jammu and kashmir,kargil
+meghalaya,jaintia hills
+punjab,muktsar
+west bengal,kolkata
+chhattisgarh,raj nandgaon
+jammu and kashmir,kathua
+meghalaya,ri-bhoi
+punjab,nawan shehar
+chhattisgarh,surguja
+west bengal,maldah
+punjab,patiala
+meghalaya,south garo hills
+jammu and kashmir,kupwara (muzaffarabad)
+west bengal,murshidabad
+dadra and nagar haveli,dadra and nagar haveli
+daman and diu,daman
+west bengal,nadia
+meghalaya,west garo hills
+jammu and kashmir,ladakh (leh)
+punjab,rupnagar
+meghalaya,west khasi hills
+jammu and kashmir,pulwama
+punjab,sangrur
+jammu and kashmir,punch
+mizoram,aizawl
+rajasthan,ajmer
+jammu and kashmir,rajauri
+mizoram,champhai
+rajasthan,alwar
+west bengal,north 24 parganas
+jammu and kashmir,srinagar
+rajasthan,banswara
+rajasthan,baran
+jammu and kashmir,udhampur
+west bengal,puruliya
+rajasthan,barmer
+jharkhand,bokaro
+rajasthan,bharatpur
+jharkhand,chatra
+west bengal,south 24 parganas
+rajasthan,bhilwara
+jharkhand,deoghar
+west bengal,uttar dinajpur
+rajasthan,bikaner
+jharkhand,dhanbad
+rajasthan,bundi
+west bengal,west midnapore
+jharkhand,dumka
+rajasthan,chittaurgarh
+jharkhand,garhwa
+rajasthan,churu
+jharkhand,giridih
+rajasthan,dausa
+jharkhand,godda
+rajasthan,dhaulpur
+jharkhand,gumla
+rajasthan,dungarpur
+jharkhand,hazaribag
+jharkhand,jamtara
+rajasthan,ganganagar
+rajasthan,hanumangarh
+jharkhand,koderma
+rajasthan,jaipur
+jharkhand,latehar
+rajasthan,jaisalmer
+jharkhand,lohardaga
+rajasthan,jalor
+jharkhand,pakur
+rajasthan,jhalawar
+jharkhand,palamu
+rajasthan,jhunjhunun
+rajasthan,jodhpur
+jharkhand,pashchim singhbhum
+rajasthan,karauli
+jharkhand,purba singhbhum
+rajasthan,kota
+jharkhand,ranchi
+rajasthan,nagaur
+jharkhand,sahibganj
+rajasthan,pali
+jharkhand,saraikela kharsawan
+jharkhand,simdega
+rajasthan,rajsamand
+karnataka,bagalkot
+rajasthan,sawai madhopur
+karnataka,bangalore rural
+rajasthan,sikar
+karnataka,bangalore urban
+rajasthan,sirohi
+rajasthan,tonk
+karnataka,belgaum
+rajasthan,udaipur
+sikkim,east
+karnataka,bellary
+karnataka,bidar
+sikkim,north sikkim
+karnataka,bijapur
+sikkim,south sikkim
+karnataka,chamrajnagar
+sikkim,west sikkim
+karnataka,chikmagalur
+tamil nadu,ariyalur
+tamil nadu,chennai
+karnataka,chitradurga
+tamil nadu,coimbatore
+karnataka,dakshin kannad
+tamil nadu,cuddalore
+karnataka,davanagere
+tamil nadu,dharmapuri
+tamil nadu,dindigul
+tamil nadu,erode
+karnataka,dharwad
+tamil nadu,kancheepuram
+karnataka,gadag
+karnataka,gulbarga
+tamil nadu,kanniyakumari
+karnataka,hassan
+tamil nadu,karur
+karnataka,haveri
+tamil nadu,madurai
+karnataka,kodagu
+tamil nadu,nagapattinam
+karnataka,kolar
+tamil nadu,namakkal
+karnataka,koppal
+karnataka,mandya
+tamil nadu,nilgiris
+tamil nadu,perambalur
+karnataka,mysore
+tamil nadu,pudukkottai
+karnataka,raichur
+tamil nadu,ramanathapuram
+tamil nadu,salem
