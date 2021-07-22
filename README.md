@@ -2,6 +2,7 @@
 
 [Neem Tree Agro Solutions](https://neemtreeagrico.in) provide farmers with knowledge, technology, marketing and extension services for improved planning for enhanced quantity and quality of produce.
 
+# The Services
 
 * **[Crop Recommendation](https://github.com/Neem-Tree-Agro-Solutions/IIT-Delhi-Submission/tree/master/Crop%20Recommendation%20System):**
 
@@ -34,3 +35,40 @@ Each state weather has been taken for more than 50 years and a time series model
 *Cluster Wise*
 India is divided into 15 agroclimatic zones. These zones are taken into account and models for these clusters has been made.
 They are beneficial over state models as clusters have similar weather conditions hence low computation power will be needed. 
+
+# The Application
+
+NT-Kisan Backend:
+https://github.com/Neem-Tree-Agro-Solutions/MongoDB-Deployment
+
+MongoDB Deployment on Google Kubernetes Engine
+Uses:
+- Statefulset for state applications like mongodb
+- Replica set for data redundancy
+- Persistent Storage Volume Claims for persistent and redundant data in the event of cluster failure
+- Internal Load Balancer to expose to apis using database
+- Shared VPC and subnet with CIDR format Ip addresses to Share Load Balancing IP
+
+NT-Kisan-RestAPI
+- Hosted on Github on a private repository (interested users can be added for viewing)
+
+Uses:
+- Custom Written API code using Node and Express server
+- Mongoose as a driver for node and mongodb interface
+
+Deployment:
+- Google Kubernetes Engine
+- Replica Set
+- External HTTPS Load Balancer service to expose the api
+- Connected to company domain for easy serving to company applications
+- Uses the same VPC as mongo for easy internal secured communication
+
+Neem Tree Kisan Application
+Hosted on Github on a private repository (interested users can be added for viewing)
+
+Uses:
+- Flutter 2.0 
+- Multiple Platforms one code base
+- BloC Pattern for state management and state saving using hydrated bloc
+- Firebase Authentication for user auth with google and phone number for one tap logins
+
