@@ -15,6 +15,10 @@ This System builds on top of past weather data of more than 50 years to make a w
 New and better practices of growing crops and crop protection are displayed to the farmer in a interactive and easy to understand UI
 The crop information data is researched and collected.
 
+* **Govt Scheme Information:**
+
+Information related to current government schemes promoting and helping agriculture and support links for applying/availing benefits for ease of use for farmers with limited knowledge of the same.
+
 * **[Pest Analysis](https://github.com/Neem-Tree-Agro-Solutions/IIT-Delhi-Submission/tree/master/Pest%20Analysis%20Models):** 
 
 Deep Learning Models have been trained for various crops with 3-4 pests and diseases for detecting pests and diseases using image recognition.
